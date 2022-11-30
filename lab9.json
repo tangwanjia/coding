@@ -1,0 +1,29 @@
+{   "Title": "fruit",
+    "details" : 
+    [
+        {
+            "name" : "apple",
+            "colour" : "red",
+            "price" : 2,
+            "favorite": "one stars"
+        },
+        {
+            "name" : "banana",
+            "colour" : "yellow",
+            "price" : 0.57,
+            "favorite": "four stars"
+        },
+        {
+            "name" : "peach",
+            "colour" : "pink",
+            "price" : 1,
+            "favorite": "fivestars"
+        },
+        {
+            "name" : "pineapple",
+            "colour" : "green",
+            "price" : 3,
+            "favorite": "three stars"
+        }
+    ]
+}
